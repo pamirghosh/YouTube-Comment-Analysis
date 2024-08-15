@@ -5,4 +5,3 @@ streamlit
 spacy
 joblib
 yt_dlp
-re
