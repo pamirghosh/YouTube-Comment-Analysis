@@ -1,0 +1,8 @@
+youtube_comment_downloader==0.1.76
+langchain_community==0.2.11
+langchain==0.2.12
+streamlit
+spacy
+joblib
+yt_dlp
+re
