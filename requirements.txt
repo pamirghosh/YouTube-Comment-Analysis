@@ -10,4 +10,4 @@ yt_dlp
 langdetect
 pandas
 emoji
-
+python -m spacy download en_core_web_sm
