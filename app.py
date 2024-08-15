@@ -5,7 +5,7 @@ from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 import streamlit as st
 import spacy
-import model
+import sentimentAnalysis
 import joblib
 import yt_dlp
 import re
