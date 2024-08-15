@@ -1,7 +1,13 @@
+vaderSentiment==3.3.2
 youtube_comment_downloader==0.1.76
+scikit-learn==1.5.1
 langchain_community==0.2.11
 langchain==0.2.12
 streamlit
 spacy
 joblib
 yt_dlp
+langdetect
+pandas
+emoji
+
