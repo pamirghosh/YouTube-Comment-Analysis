@@ -17,7 +17,7 @@ This web application analyzes YouTube video comments, classifies them as positiv
 - **YouTubeCommentDownloader**: For fetching comments from YouTube videos.
 - **VADER Sentiment Analysis**: For initial sentiment scoring.
 
-Usage
+##Usage
 Open the web application.
 Paste the YouTube video link in the input field.
 Click "Analyze" to fetch and analyze the comments.
@@ -25,7 +25,7 @@ View the percentage breakdown of positive, neutral, and negative comments.
 Click "Summarize" to generate a summary of the negative comments.
 
 
-Contact
+##Contact
 For any questions or suggestions, please feel free to reach out:
 
 Email: ghosh.pamir.education@gmail.com
