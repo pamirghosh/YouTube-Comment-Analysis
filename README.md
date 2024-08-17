@@ -28,5 +28,5 @@ Click "Summarize" to generate a summary of the negative comments.
 ## Contact
 For any questions or suggestions, please feel free to reach out:
 
-- **Email: ghosh.pamir.education@gmail.com
-- **LinkedIn: linkedin.com/in/pamirghosh
+- Email: ghosh.pamir.education@gmail.com
+- LinkedIn: [linkedin.com/in/pamirghosh](https://www.linkedin.com/in/pamirghosh/)
